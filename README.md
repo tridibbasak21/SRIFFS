@@ -2,13 +2,13 @@
 SRIFFS - Synthesizing Realistic Images From Facial Sketches
 ## Introduction
 Understanding images is still a challenging problem in computer vision, nevertheless going in the opposite direction to generate a realistic image. Especially in this project in which we are working across two domains, sketches, and images, it is difficult to completely rely on the computer for the entire image synthesis process.
-we aimed our own dataset consisting of sketches generated from real world images from different origins, sources, websites and manually taken images for making it as accurate as possible and giving the machine a versatile set of images to train upon and give accurate outputs with an increased accuracy of the model.
+we aimed our own dataset consisting of sketches generated from real world images from different origins, sources, websites and manually taken images for making it as accurate as possible and giving the machine a versatile set of images to train upon and give accurate outputs with an increased accuracy of the model overall.
 
 ### Objective
 
 * The goal of sketch-based image synthesis is to generate some image resembling to reality derived from a sketch, given the constraint of a sketched object/person.
 *  Create an Indian -oriented dataset of sketch-image pairs and hence designing a deep learning model using GAN (Generative Adversarial Network) to synthesize realistic images. 
-* Pipeline the flow of project to provide easy optimization.
+* Pipeline the flow of project to provide easy optimization for the users.
 
 
 
